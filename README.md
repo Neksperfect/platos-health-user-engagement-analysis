@@ -146,10 +146,10 @@ Only one of five messages passed review without changes. The others ranged from 
 ## Files in This Repository
 
 ```
-├── platos.pbix                              # Power BI dashboard file
-├── platos_health_process_documentation.pdf  # Full process and methodology documentation
-├── platos_health_executive_summary.pptx     # Executive summary presentation
-└── README.md                                # You are here
+├── README.md                               # You are here
+├── platos.pbix                             # Power BI dashboard file
+├── platos_health_executive_summary.pptx    # Executive summary presentation
+└── platos_health_process_documentation.    # Full process and methodology documentation                          
 ```
 
 ---
