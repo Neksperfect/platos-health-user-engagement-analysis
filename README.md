@@ -148,6 +148,7 @@ Only one of five messages passed review without changes. The others ranged from 
 ```
 ├── README.md                               # You are here
 ├── platos.pbix                             # Power BI dashboard file
+├── platos_health_analysis.ipynb            # Analysis file
 ├── platos_health_executive_summary.pptx    # Executive summary presentation
 └── platos_health_process_documentation.    # Full process and methodology documentation                          
 ```
